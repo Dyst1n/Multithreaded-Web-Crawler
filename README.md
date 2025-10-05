@@ -48,9 +48,9 @@ Users are solely responsible for complying with applicable laws and regulations 
 ## Build Instructions
 
 ```bash
-git clone https://github.com/yourusername/web-crawler.git
-cd web-crawler
+git clone https://github.com/Dyst1n/Multithreaded-Web-Crawler.git
+cd Multithreaded Web Crawler
 mkdir build && cd build
 cmake ..
 make
-./web_crawler
+./Multithreaded Web Crawler
