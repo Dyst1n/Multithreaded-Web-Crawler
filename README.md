@@ -4,6 +4,25 @@ A fast, multi-threaded web crawler in C++ that extracts links from a given domai
 
 This crawler uses **libcurl** for HTTP requests and **Gumbo parser** for HTML parsing. It is designed for quick and domain-specific web crawling.
 
+
+---
+
+
+## Disclaimer
+
+This web crawler is provided **for educational and research purposes only**. 
+
+The author **is not responsible** for any misuse of this software, including but not limited to:
+
+- Violating terms of service of websites  
+- Overloading servers  
+- Accessing unauthorized or restricted content  
+
+Users are solely responsible for complying with applicable laws and regulations in their jurisdiction. Use this software responsibly and ethically.
+
+
+
+
 ---
 
 ## Features
